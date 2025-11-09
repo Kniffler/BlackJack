@@ -1,5 +1,5 @@
-# BlackJoe
-Excuse the naming, at the time of making this project, when I was 14/15, I thought it was funny.
+# BlackJack vs Joe
+Excuse the naming at the time of making this project, when I was 14/15, I originally called it Blackjoe, as a parody to jack. I have no idea why, but I've removed that now.
 
 # Code structure
 While the code itself is quite thoroughly commented, I would like to clarify that the ```cardGameTemplate.cpp``` file serves as a template for anyone who would like to use the format I created back then.
