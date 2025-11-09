@@ -7,5 +7,8 @@ While the code itself is quite thoroughly commented, I would like to clarify tha
 > [!NOTE]
 A tab size of 4 spaces is recommended while reading
 
+# Features
+This code accounts for almost all standard rules of Blackjack. The only unsupported feature at the time is splitting. Since this is an older, and now abandoned, project I do not plan to add this feature in the future either, it is meerely a mark of my former self's inexperience.
+
 # The comments' attitude
 At the time I made this, I had quite a nack for commenting in a rather... strong tone. Please excuse my former self's language in the source code.
