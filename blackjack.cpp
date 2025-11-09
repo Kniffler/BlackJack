@@ -2,7 +2,6 @@
 #include <string>
 #include <vector>
 #include <bitset>
-//#include "PAG.h" // Include Player-Automated-Game (PAG)
 
 using namespace std;
 /*
@@ -240,48 +239,3 @@ void announce(vector<int> handSums)
 	else if(index==0) { cout << "\nThe dealer wins!\n"; }					// Check if the game was won by the dealer (index = 0)
 	else { cout << "\nPlayer " + to_string(index) + " wins!\n"; }			// In any other case one of the players has won.
 }
-// Split function : Splits the hand of the current player.
-/*
-			Here we are *rolls eyes and credits*
-
-
-		Program made by Elija Abraham
-
-
-
-		Idea by Elija Abraham
-		
-
-		Made with the help of Elija Abraham's genius
-
-		With the resources of Elibraham studios
-
-		Sound designs by Elija Abraham Inc.
-
-		Graphical illustrations made by Elija & Co.
-
-		Jeremy.
-
-		Programmers: Elija Abrahams (plural), 
-		that guy in the corner whom I like to whip if he doesn't do my code for me, and Elija Abraham clone #331 - suck it #144!
-
-		Head of developement:	/ .. \
-								\ -- /
-
-		Body of developement:    /|\
-						   	    / | \
-							      |
-								 / \
-							    /   \
-
-		Special thanks to: my bus without whom I wouldn't be where I am. My candy who always knows
-		how to make salty jokes come across as sweet. And finally, my spine, without whom I wouldn't be standing as tall as I am.
-
-		Not so special thanks to: the ocean, you're just too salty. The critics. And also my parents, for giving 
-		non-consentual birth to me >:(
-
-		Made in micro, a software for NEERDDSSS!!!
-
-
-		Made in memory of Lisa and in the interest of food.	
-*/
